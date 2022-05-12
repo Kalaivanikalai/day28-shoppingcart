@@ -1,0 +1,16 @@
+.smallbadge{
+  top: 0.5rem; right: 0.5rem
+}
+.new{
+  width: 18rem;
+}
+.starcolor{
+  color: #f3da35;
+}
+.fa-star:before {
+  content: "\f005";
+}
+
+.wordstrike{
+  text-decoration: line-through;
+}
